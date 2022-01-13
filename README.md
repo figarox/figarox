@@ -18,3 +18,5 @@ I have been interested in programming since I was 10.
 ## My Website Game which in progress
 
 ❌❌❌ http://mysticwar.pl/ ❌❌❌
+
+### Check out my pinned projects ⬇️
