@@ -15,6 +15,9 @@ I have been interested in programming since I was 10.
 [![Styled Components](https://img.shields.io/badge/-StyledComponents-orange?style=flat-square&logo=Styled-Components&logoColor=white)]()
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]()
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=figarox)](https://github.com/figarox/github-readme-stats)
+
+
 ## My Website Game which in progress
 
 ❌❌❌ http://mysticwar.pl/ ❌❌❌
