@@ -16,6 +16,7 @@ I have been interested in programming since I was 10.
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=figarox)](https://github.com/figarox/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=figarox&show_icons=true&theme=Gradient)
 
 
 ## My Website Game which in progress
