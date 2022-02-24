@@ -2,7 +2,7 @@
 
 ## About me 😄
 My name is Maciej Rożnawski. I graduated from the IT technical college of the Słupsk.I passed the vocational exam and got my qualification certificate.
-I have been interested in programming since I was 10.
+
 
 ## Technologies :wrench::
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
