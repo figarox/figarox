@@ -15,10 +15,3 @@ My name is Maciej Rożnawski. I graduated from the IT technical college of the S
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=figarox)](https://github.com/figarox/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=figarox&show_icons=true&theme=Gradient)
-
-
-## My Website Game which in progress
-
-❌❌❌ http://mysticwar.pl/ ❌❌❌
-
-### Check out my pinned projects ⬇️
